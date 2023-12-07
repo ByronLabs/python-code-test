@@ -15,9 +15,6 @@ You are tasked with creating a simple backend system for a basic cybersecurity i
   - Incident ID (auto-generated)
   - Date and Time of Incident
   - Description
-  - Severity Level (Low, Medium, High)
-  - Reporter (Name and Contact Information)
-  - Status (Open, In Progress, Closed)
 
 **Endpoints:**
 
